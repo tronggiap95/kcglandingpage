@@ -1,0 +1,40 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  --black: #000000;
+  --ash-black: #222;
+  --white: #fafafa;
+  --sky: #00ccff;
+  --green: #22dddd;
+  --blue: #1300ff;
+  --dusk: #6600ff;
+  --purple: #9900ff;
+  --pink: #ff0066;
+  --red: #fe0222;
+  --orange: #fd7702;
+  --yellow: #ffbb00;
+
+  --background: var(--black);
+  --accent: var(--red);
+
+  margin: 0;
+  padding: 0;
+  color: var(--accent);
+  padding-bottom: 100px;
+  
+}
+
+* {
+  font-family: sofia-pro, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  overflow-x : hidden
+}
+
+.bg-gr{
+  background: linear-gradient(45deg, rgba(0, 0, 0, 0.48), rgba(0, 0, 0, 0.06));
+
+}
