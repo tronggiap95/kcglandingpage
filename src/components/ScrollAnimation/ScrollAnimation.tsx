@@ -2,7 +2,7 @@
 import React, { useEffect, useState } from "react";
 import { motion, useAnimation } from "framer-motion";
 import Image from "next/image";
-import bgImage from "../../../public/images/image2.png";
+import bgImage from "../../../public/images/image1.png";
 import logo from "../../../public/images/logo.svg";
 import logo2 from "../../../public/images/logo2.svg";
 import logo3 from "../../../public/images/ds.svg";

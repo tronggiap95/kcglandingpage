@@ -3,7 +3,7 @@
 import Image from "next/image";
 import logo from "../../public/images/logo.svg";
 import arrowDown from "../../public/images/arrowDown.svg";
-import bgImage from "../../public/images/image2.png";
+import bgImage from "../../public/images/image1.png";
 import { useState } from "react";
 import AnimatedText from "@/components/ScrollAnimation/ScrollAnimation";
 

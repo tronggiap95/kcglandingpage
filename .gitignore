@@ -1,0 +1,140 @@
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# next.js
+/.next/
+/out/
+
+/public/sw.js
+/public/workbox-*.js
+/public/sw.js.map
+/public/workbox-*.js.map
+
+# production
+/build
+
+# misc
+.DS_Store
+*.pem
+
+# environment variables
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# next.js generated cache
+.next
+
+# vercel
+.vercel
+output.log
+
+# yarn
+.yarn
+.pnp.*
+
+# npm
+package-lock.json
+npm-debug.log*
+
+# logs
+logs
+*.log
+yarn-debug.log*
+yarn-error.log*
+
+# editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# specific IDEs
+# JetBrains IDEs
+# User-specific stuff: see https://intellij-support.jetbrains.com/hc/articles/206544839
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/usage.statistics.xml
+.idea/**/dictionaries
+.idea/**/shelf
+.idea/**/contentModel.xml
+.idea/**/libraries
+.idea/.idea_modules.xml
+.idea/modules.xml
+.idea/*.iml
+.idea/modules.xml
+.idea/assetWizard.xml
+.idea/codeStyles/
+.idea/jsLibraryMappings.xml
+
+# Rider
+.idea/.idea_modules.xml
+.idea/workspace.xml
+.idea/gradle.xml
+.idea/libraries
+.idea/tasks.xml
+.idea/dictionaries
+.idea/shelf
+.idea/contentModel.xml
+.idea/codeStyles/
+.idea/jsLibraryMappings.xml
+
+# WebStorm
+.idea/.idea_modules.xml
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/dictionaries
+.idea/shelf
+.idea/contentModel.xml
+.idea/libraries
+
+# PhpStorm
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/dictionaries
+.idea/**/shelf
+.idea/**/contentModel.xml
+.idea/**/codeStyles
+.idea/jsLibraryMappings.xml
+
+# Pycharm
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/dictionaries
+.idea/**/shelf
+.idea/**/contentModel.xml
+.idea/**/codeStyles
+.idea/jsLibraryMappings.xml
+.idea/libraries
+
+# Code::Blocks
+*.depend
+*.layout
+*.out
+
+# QtCreator
+*.creator.*
+*.creator.user.*
+
+# Visual Studio Code
+.vscode/
+
+# Mac system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+ehthumbs.db
+
+# Linux system files
+.*.swp
+.*.swo
